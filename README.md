@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoGaming01
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Hacking
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently working on discord bots
+- 💞️ I’m looking for partnership for my discord server
 - 📫 How to reach me discord.com/users/875208986603958344 DM me on Discord
 
 <!---
