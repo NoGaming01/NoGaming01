@@ -8,7 +8,7 @@ I have been learning to code for 3 years. I love to code new things.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](http://nogaming01.github.io)
-*   🚀  I'm currently working on [Helper](http://github.com/NoGaming01/Helper_Bot)
+*   🚀  I'm currently working on [Helper](http://github.com/HelperGhost/Helper_Bot)
 *   🧠  I'm learning C
 *   🤝  I'm open to collaborating on Discord Bot
 
